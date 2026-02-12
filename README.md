@@ -7,7 +7,7 @@ SECURITY LOG:
 This invoice was generated for a completed transaction on your PayPal account.
 
 TRANSACTION REVIEW:
-If you don't recognize this activity, please review your PayPal account security and recent activity.
+If you don't recognize this activity, please review your PayPal account security and recent activity
 
 Customer Support: +1(808) 219-1309
 
