@@ -25,7 +25,7 @@ Bitcoin (BTC) Purchase
 
 PayPal Digital Asset Service Fee
 
-|1 | $50.00 | $50.00
+|1 | $50.00 | $50.0
 
 TOTAL DUE:
 
